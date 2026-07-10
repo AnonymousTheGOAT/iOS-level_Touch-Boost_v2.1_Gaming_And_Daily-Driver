@@ -1,0 +1,17 @@
+#!/system/bin/sh
+# update-binary shell script
+
+# $1: API (ignored)
+# $2: TMPDIR
+# $3: ZIPFILE
+
+if [ -x /data/adb/magisk/busybox ]; then
+  BB=/data/adb/magisk/busybox
+elif [ -x /data/adb/magisk/busybox-x86 ]; then
+  BB=/data/adb/magisk/busybox-x86
+else
+  BB=busybox
+fi
+
+$BB sh "$2/customize.sh" "$@"
+exit $?
