@@ -18,3 +18,5 @@ Stay default, but customized.
 # Information : This module is a work of perfection. No spoof, no copy paste.
 This is pure tuning. This is pure calibration. This is perfection.💯
 Peace out🕊️✌️
+# More info :
+Experience iPhone like touch smoothness. Built with love and tuned to perfection. Suitable for daily driver and gaming. This module is a work of perfection. No spoof, no copy paste. Author &amp; Credit : AnnonymousTheGOAT#1. Contact : annonymousthegoat1@gmail.com. Peace out🕊️✌️
