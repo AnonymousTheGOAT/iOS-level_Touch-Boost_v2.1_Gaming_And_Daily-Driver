@@ -1,11 +1,7 @@
 #=================================================
-#Customized NVTCapacitiveTouchScreen.idc file
-#iOS-level Input Device Configuration for android
-#Version : 2.1         Version code : 21
-#Credit : AnnonymousTheGOAT#1
-#Contact : annonymousthegoat1@gmail.com
-#Built with love and tuned to perfection
-#For both daily use & low-latency gaming too
+#=Customized NVTCapacitiveTouchScreen.idc file
+#=Version : 2.1         Version code : 21
+#=AnnonymousTheGOAT#1 annonymousthegoat1@gmail.com
 #=================================================
 
 device.internal=1
