@@ -1,4 +1,5 @@
-# Module details : (flashed and tested ✅ by me)
+# Module details : 
+(flashed✅ and tested✅ by me on android 16)
 id=iOS-level_Touch-Boost_Gaming_Daily-Driver
 name=iOS-level Touch Boost 🚀 v2.1 Gaming🎮+DailyDriver📱
 version=v2.1
