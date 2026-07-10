@@ -1,7 +1,8 @@
 #==============================================
 #=Customized NVTCapacitiveTouchScreen.idc file
 #=Version : 2.1         Version code : 21
-#=AnnonymousTheGOAT#1 annonymousthegoat1@gmail.com
+#=AnnonymousTheGOAT#1 
+#=annonymousthegoat1@gmail.com
 #==============================================
 
 device.internal=1
