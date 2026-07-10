@@ -17,7 +17,8 @@ Stay default, but customized.
 5. Do not modify anything, unless you know what you are doing.
 6. ⬆️Read and follow those disclaimers⬆️
 7. Feel free to contribute. No worries
-# Information : This module is a work of perfection. No spoof, no copy paste.
+# Information : 
+This module is a work of perfection. No spoof, no copy paste.
 This is pure tuning. This is pure calibration. This is perfection.💯
 Peace out🕊️✌️
 # More info :
